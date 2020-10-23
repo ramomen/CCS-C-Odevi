@@ -1,0 +1,22 @@
+[PROJECT]
+Target=micro_1.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.007
+Compiler=PCM
+CCSVersion=5.007
+[Target Data]
+FileList=micro_1.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\sheep\Desktop\micro_1\
+[C:\Users\sheep\Desktop\micro_1\micro_1]
+Type=4
+[mru-list]
+1=micro_1.c
+[Opened Files]
+1=micro_1.c
+2=
+[micro_1.c]
+Type=4
+[Units]
+Count=1
+1=micro_1 (main)
